@@ -1,6 +1,6 @@
 .summary {
     text-align: center;
-    max-width: 45rem;
+    max-width: 65rem;
     width: 90%;
     margin: auto;
     margin-top: -10rem;
@@ -14,5 +14,16 @@
   .summary h2 {
     font-size: 2rem;
     margin-top: 0;
+  }
+
+  .summary p{
+    padding: 0px 50px;
+  }
+
+  .summary img{
+    height: 500px;
+    width: 500px;
+    object-fit: cover;
+
   }
   
